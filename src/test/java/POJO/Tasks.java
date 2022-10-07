@@ -8,7 +8,7 @@ import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
 
 public class Tasks {
-    /** Task 6
+    /** Task 1
      * create a request to https://jsonplaceholder.typicode.com/todos/2
      * expect status 200
      * Converting Into POJO

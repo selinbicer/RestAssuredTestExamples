@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 public class Task1 {
     private int userId;
     private int id;
-    private String baslik; //private String title değiştirelim ve farklı bir isim ile kullanalım
+    private String baslik;
     private Boolean completed;
 
     public int getUserId() {
